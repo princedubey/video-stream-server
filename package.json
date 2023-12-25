@@ -1,0 +1,26 @@
+{
+  "name": "streaming-video",
+  "version": "1.0.0",
+  "description": "In this project we're going to make the server for video stream services like youtube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "youtube",
+    "server",
+    "stream",
+    "video",
+    "server",
+    "prince",
+    "dubey",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "Prince Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
